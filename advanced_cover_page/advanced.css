@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png');
+    background-size: cover;
+    overflow:hidden;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+}
+.btn{
+    border-radius: 15px;
+    border: 12px solid #d7dfef;
+}
+.btn1{
+    background-color:#5752ab;
+    color: #ffffff;
+    border-radius: 15px;
+    border: 0;
+}
+.card-body{
+    background-color:#ffffff;
+    color: #323f4b;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    
+}
+.main{
+    background-color: #ffffff !important;
+    border-top-left-radius: 20px !important;
+    border-top-right-radius: 20px !important;
+}
+h5{
+    font-family: 'Bree Serif', serif;
+    font-size: 40px !important;
+}
+p{
+    font-family: 'Bree Serif', serif;
+    font-size: 20px !important;
+}

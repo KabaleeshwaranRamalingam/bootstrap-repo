@@ -1,0 +1,13 @@
+body{
+    overflow: hidden;
+}
+img{
+    width: 100vw;
+    height: 60vh;
+    object-fit: cover;
+}
+.button1{
+    border-radius: 50% !important;
+    height: 10px !important;
+    width: 10px !important;
+}
